@@ -3,8 +3,6 @@
 #include "decorator.hpp"
 #include "black_bread.hpp"
 
-
-
 int main()
 {
 
