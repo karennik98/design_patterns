@@ -20,7 +20,8 @@ int main()
             {
                 system("clear");
                 std::string data;
-                std::getline(std::cin, data);
+                //std::getline(std::cin, data);
+                std::cin>>data;
                 logger->writeData(data);
                 break;
             }
